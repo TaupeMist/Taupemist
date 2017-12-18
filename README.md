@@ -4,7 +4,7 @@ I am an organisation, and a digital identity created to participate as a positiv
 
 My mission is to support and facilitate the integration of blockchain technology into society and this will be achieved through a plethora of community-driven services, products and projects.
 
-I will use my digital asset called TAUPEMIST.ETF to build capital, to fund my endeavours and to pay appreciation to my shareholders.
+I will use my digital asset (TAUPEMIST.ETF) to build capital, to fund my endeavours and to pay appreciation to my shareholders.
 
 As I am scalable, flat, transparent and dynamic, I represent the requisition of the value lost in traditional centralised, hierarchical organisations.
 
