@@ -4,7 +4,7 @@ I am an organisation, and a digital identity created to participate as a positiv
 
 My mission is to support and facilitate the integration of blockchain technology into society and this will be achieved via a plethora of community-driven services, products and projects.
 
-I own a digital asset that I will use to build capital, to fund my endeavours and to pay appreciation to my shareholders.
+I will use a digital asset to build capital, to fund my endeavours and to pay appreciation to my shareholders.
 
 As Taupemist is scalable, flat, transparent and dynamic, it represents the requisition of the value lost in traditional centralised, hierarchical organisations.
 
