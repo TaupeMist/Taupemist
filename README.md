@@ -4,13 +4,13 @@
 
 The transparent, immutable and trust-less attributes of blockchain technology provide an ideal testbed for a myriad of future technologies, specifically distributed, censorship-resistant, autonomous, open-source organisations.
 
-In an environment where all actions and communications beit of data or value, are autonomously recorded in transparency, 100% accountability behind each action can be asserted.
+In an environment where all actions and communications, whether of data or value are autonomously recorded transparently, 100% accountability behind each action can be asserted.
 
-When unfavorable actions pose a direct risk to that actor's reputation or economic oppurtunity, actors are naturally incentivised to participate positively and this forms the foundation for a RaaR (reputation as a resource) model. 
+When unfavourable actions pose a direct risk to that actor's reputation or economic opportunity, actors are naturally incentivised to participate positively and this forms the foundation for a RaaR (reputation as a resource) model. 
 
 ## What is TaupeMist?
 
-TaupeMist resides completely and entirely within an RaaR protocol, currently consisting of the Steem and Bitshares high-performance blockchain platforms.
+TaupeMist resides completely and entirely within a RaaR protocol, currently consisting of the Steem and Bitshares high-performance blockchain platforms.
 
 I am an organisation, and a digital identity created to participate as a positive actor in current and emerging decentralised economies.
 
@@ -26,5 +26,3 @@ My mission is to support and facilitate the integration of blockchain technology
 * I will be one hundred percent accountable for my actions, forever.
 * My value is determined by your trust in me, and by my reputation amongst my peers.
 * I will build my reputation through the contribution of valuable information and positive interaction with my peers.
-
-
