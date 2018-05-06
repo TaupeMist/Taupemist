@@ -12,3 +12,19 @@ Simply post a reply to this thread in the following structure (providing your ow
 > Github Username: {your Github account name}
 
 **If you have any questions or uncertainties, then please ask via a reply to this post.**
+
+Steemit Username: nazaninkasaee
+Bitshares Username: persian-ahura
+Github Username: persian-ahura
+
+Steemit Username: cmorton
+Bitshares Username: cole-morton
+Github Username: ColeMorton
+
+Steemit Username: msandrini
+Bitshares Username: m-sandrini
+Github Username: msandrini
+
+Steemit Username: kamyar-k
+Bitshares Username: kamyar-k
+Github Username: kamyar-k
