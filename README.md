@@ -26,4 +26,4 @@ Our mission is to support and facilitate the integration and education of blockc
 * Taupemist will be one hundred percent accountable for it's actions, forever.
 * The value of Taupemist and it's asset will be completely determined by the members of the organisation, and will not be subject to any form of artificial manipulation outside the consent of the organisation's members.
 * Members will be treated equally and fairly without any form of supression or preference.
-* Taupemist will build it's reputation through the contribution of valuable information/services and through positive interaction it's members.
+* Taupemist will build it's reputation through the contribution of valuable information/services and through positive interaction with it's members.
