@@ -8,11 +8,11 @@ In an environment where all actions and communications, whether of data or value
 
 When unfavourable actions pose a direct risk to that actor's reputation or economic opportunity, actors are naturally incentivised to participate positively and this forms the foundation for a RaaR (reputation as a resource) model. 
 
-## What is TaupeMist?
+## What is Taupemist?
 
 Taupemist is a non-profit cooperative organisation, and a digital identity created to participate as a positive actor in current and emerging decentralised economies.
 
-TaupeMist resides completely and entirely within a RaaR protocol, currently consisting of the Steem and Bitshares high-performance blockchain platforms.
+Taupemist resides completely and entirely within a RaaR protocol, currently consisting of the Steem and Bitshares high-performance blockchain platforms.
 
 The Taupemist digital asset (TM) will be used to denote the level of memmbership with the organisation, to compensate contributors, and to incentivise participation.
 
