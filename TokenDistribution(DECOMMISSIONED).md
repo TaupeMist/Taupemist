@@ -1,3 +1,5 @@
+# DECOMMISSIONED
+
 # Token Distribution v1.0
 
 Access to TM (the Taupemist asset) is currently invite-only to ensure manageability, security and organic growth. Therefore, permission is granted on an individual basis.
