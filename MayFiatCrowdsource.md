@@ -1,4 +1,4 @@
-# May Fiat Crowdsource
+# May Fiat Crowdsource v1.0.1
 
 __I would like to formally announce that fiat currency will be officially added to the Taupemist asset portfolio!__
 
@@ -38,8 +38,7 @@ You can donate as often and as much as you wish within the month of May.
 N26 bank has partnered with an excellent payment service called: [Transferwise](https://transferwise.com/). Transferwise supports currency transfer from various origins incl. Australia and Brazil with extremely low fees and is the recommended method for sending non-euro currency to the Taupemist account.
 
 ### If I don't participate in this crowdsourcing, will I have the ability to purchase TM using fiat in the future?
-Members with an Expert membership will have access to the Gateway service which will be released at a future date.
-The Gateway service will enable members to exchange fiat for cryptocurrency (including TM) and vice versa.
+Currently, there are no other services that provide this ability, however, the Taupemist organisation may introduce services in future to facilitate this, for example, a distribution or crowdsource. 
 
 **If you have any questions or uncertainties, then please contact me via the Official Taupemist Group**
 
