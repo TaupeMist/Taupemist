@@ -1,4 +1,4 @@
-# Taupemist Membership Table v1.1
+# Taupemist Membership Table v1.2
 
 Taupemist is a non-profit organisation and the only expense incurred by members is in the form of a fair community decided unbiased fee paid directly to Taupemist members as a means of compensation for the time and resources they require to provide a service or product.
 
@@ -13,10 +13,11 @@ __Refer to the table below to determine your level of membership__
 | Taupemist:BitUSD Market |✔|✔|✔|
 | Sentiment ||✔|✔|
 | TM Distribution ||✔|✔|
-| May Fiat Crowdsource ||✔|✔|
+| Crowdsource (Donator) ||✔|✔|
 | Power Down ||✔|✔|
 | Power Up **(TBA)** |||✔|
 | Gateway **(TBA)** |||✔|
+| Crowdsource (Holder) **(TBA)** |||✔|
 | __ACCESS LEVEL__ | __0 TM__ | __> 1 TM__ | __> 2 TM__ |
 
 **If you have any questions or uncertainties, then please contact me via the Official Taupemist Group**
