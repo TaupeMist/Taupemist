@@ -14,7 +14,7 @@ Taupemist is a non-profit cooperative organisation, and a digital identity creat
 
 Taupemist resides completely and entirely within a RaaR protocol, currently consisting of the Steem and Bitshares high-performance blockchain platforms.
 
-The Taupemist digital asset (TM) will be used to denote the level of memmbership with the organisation, to compensate contributors, and to incentivise participation.
+The Taupemist digital asset (TM) is a utility token that will be used to denote the level of membership within the organisation, to compensate contributors, and to incentivise participation.
 
 Taupemist is scalable, flat, transparent and dynamic, and represents the requisition of the value lost in traditional centralised, hierarchical organisations.
 
