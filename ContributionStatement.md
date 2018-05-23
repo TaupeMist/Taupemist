@@ -13,4 +13,18 @@ This provides members with a clear, deterministic revenue stream and the opportu
 A statement can be created before, during or after the commencement of any work required for the contribution, however, the earliest point possible is preferred as expectations can most easily be adjusted.
 
 ### How does it work?
-### 
+### What does a Contribution Statement look like?
+
+### What does a Compensation Survey look like?
+##### Survey
+| | |
+| ------ | ------ |
+| Title | Contribution Statement: {statement name} |
+| Type | compensation |
+
+##### Submission
+| | |
+| ------ | ------ |
+| Value | 2TM |
+| Weight | 100TMS |
+| Reason | { optional justification of value amount } |
