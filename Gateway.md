@@ -31,6 +31,7 @@ AMOUNT: 100
 FROM: Euro
 TO: Bitcoin
 ```
+Gateway requests should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
 
 ### Is my preferred fiat currency available?
 Taupemist's fiat account is denominated in euro however, the account provider (N26 bank) has partnered with an excellent payment service called: Transferwise. Transferwise supports currency transfer from and to various countries around the world incl. Australia and Brazil with extremely low fees and is the recommended method for transferring fiat to/from the Taupemist organisation.
