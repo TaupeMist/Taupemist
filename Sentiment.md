@@ -1,4 +1,4 @@
-# Sentiment
+# Sentiment v1
 
 **Governance is fundamentally essential for any organisation to operate effectively and starting now, the Taupemist organisation will implement the first service to allow a rudimentary form of governance and decision making to the organisation!**
 
@@ -15,9 +15,9 @@ At the end of a survey, all response values and their weight will be collected a
 
 ### How do I submit a survey?
 ##### A Survey is composed of three fields.
-The __title__ is the title or name of the survey.
-The __type__ can be boolean (true/false) or a range (variable).
-The __duration__ is an **optional** field to state the duration of the survey.
+1. The __title__ is the title or name of the survey.
+2. The __type__ can be boolean (true/false) or a range (variable).
+3. The __duration__ is an **optional** field to state the duration of the survey.
 
 A member can submit a survey in this format as a post on the steem blockchain using their desired steem website (i.e. [steemit.com](https://www.steemit.com)) and the tag: taupemist.
 
