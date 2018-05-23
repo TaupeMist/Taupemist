@@ -1,5 +1,5 @@
 # Contribution v1
-**Taupemist members provide contributions to the organisation and ensure it's operation, and each member has an equal right to fair compensation. Taupemist members have the ability to catalog contributions into a statement for compensation from the organisation.**
+**Taupemist members provide contributions to the organisation and ensure it's operation, and each member has an equal right to fair compensation. Taupemist members have the ability to catalogue contributions into a statement for compensation from the organisation.**
 
 ### What is a contribution statement?
 A statement that contains one or more contributions, details what they are and illustrates the value that they will provide to the Taupemist organisation.
@@ -17,11 +17,14 @@ A statement can be created before, during or after the commencement of any work 
 
 ### What does a Contribution Statement look like?
 ##### Example Contribution Statement
+```
 Account Setup
 - Setup and credit of the taupemist1 account.
 - Creation of the Taupemist asset. Price ~220USD.
 - Organisation and execution of share distribution #1.
 - Organisation and execution of share repurchase #1.
+```
+Compensation statements should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
 
 ### What does a Compensation Survey look like?
 ##### Example Survey
