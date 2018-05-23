@@ -40,7 +40,7 @@ Compensation statements should be posted in the comment thread of this Steem art
 | Weight | 100TMS |
 | Reason | The TM asset will be invaluable to the growth and operation of the organisation |
 
-[view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/ContributionStatement.md)
+[view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Contribution.md)
 
 **If you have any questions or uncertainties, then please contact me via the Official Taupemist Group**
 
