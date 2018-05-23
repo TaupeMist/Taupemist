@@ -1,5 +1,5 @@
-# Contribution Statement
-**Taupemist members provide contributions to the organisation and ensure it's operation, and each member has an equal right to fair compensation.**
+# Contribution v1
+**Taupemist members provide contributions to the organisation and ensure it's operation, and each member has an equal right to fair compensation. Taupemist members have the ability to catalog contributions into a statement for compensation from the organisation.**
 
 ### What is a contribution statement?
 A statement that contains one or more contributions, details what they are and illustrates the value that they will provide to the Taupemist organisation.
