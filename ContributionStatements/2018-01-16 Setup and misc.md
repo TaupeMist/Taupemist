@@ -1,5 +1,9 @@
-### 2018-01-16 - Setup and misc
+# 2018-01-16 - Setup and misc
 
+### Contributors
+- Cole
+
+### Tasks
 All of my trading and investment actions related to Bitshares, Binance, and Bittrex alongside the operation of the TaupeMist
 CryptoCompare profile are actions made at my discretion depending on the amount of time and resources I have available to
 dedicate towards it.
