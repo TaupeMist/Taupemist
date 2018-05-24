@@ -1,4 +1,4 @@
-# Taupemist Membership Table v2
+# Taupemist Membership Table v2.1
 
 Taupemist is a non-profit organisation and the only expense incurred by members is in the form of a fair community decided unbiased fee paid directly to Taupemist members as a means of compensation for the time and resources they require to provide a service or product.
 
@@ -14,8 +14,8 @@ __Refer to the table below to determine your level of membership__
 | Sentiment ||✔|✔|
 | Crowdsource (Donator) ||✔|✔|
 | Power Down ||✔|✔|
+| Gateway |||✔|
 | Power Up **(TBA)** |||✔|
-| Gateway **(TBA)** |||✔|
 | Crowdsource (Holder) **(TBA)** |||✔|
 | __ACCESS LEVEL__ | __0 TM__ | __> 1 TM__ | __> 2 TM__ |
 
