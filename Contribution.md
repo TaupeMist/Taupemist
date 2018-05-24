@@ -16,13 +16,28 @@ This provides members with a clear, deterministic revenue stream and the opportu
 A statement can be created before, during or after the commencement of any work required for the contribution, however, the earliest point possible is preferred as expectations and objectives can most easily be adjusted.
 
 ### What does a Contribution Statement look like?
-##### Example Contribution Statement
+##### Example Contribution Statement #1
 ```
 Account Setup
+Contributors:
+- Richard
+Tasks:
 - Setup and credit of the taupemist1 account.
 - Creation of the Taupemist asset. Price ~220USD.
 - Organisation and execution of share distribution #1.
 - Organisation and execution of share repurchase #1.
+```
+##### Example Contribution Statement #2
+```
+Logo Design
+Contributors:
+- Richard 20%
+- Henry 80%
+Tasks:
+- Gather requirements and establish scope. Time 2hrs
+- Creation of prototypes. Time 6hrs
+- Aquisition of assets. Time 2hrs.
+
 ```
 Compensation statements should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
 
