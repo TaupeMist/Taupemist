@@ -1,4 +1,4 @@
-# Gateway v1
+# Gateway v1.0.1
 **Gateway services are popular as they provide users with the ability to transfer assets between different markets.**
 
 ### What is a gateway?
@@ -33,6 +33,15 @@ TO: Bitcoin
 ```
 Gateway requests should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
 
+### Where should I send my fiat currency for the exchange?
+Fiat currency should be sent to the official Taupemist organisation bank account.
+The details are as follows:
+```
+IBAN: DE47 1001 1001 2628 2501 49
+BIC: NTSBDEB1XXX
+Account Holder: Cole Morton
+```
+
 ### Is my preferred fiat currency available?
 Taupemist's fiat account is denominated in euro however, the account provider (N26 bank) has partnered with an excellent payment service called: Transferwise. Transferwise supports currency transfer from and to various countries around the world incl. Australia and Brazil with extremely low fees and is the recommended method for transferring fiat to/from the Taupemist organisation.
 
@@ -40,6 +49,7 @@ Taupemist's fiat account is denominated in euro however, the account provider (N
 A minimum amount will not be strictly enforced however it will reside at around ten dollars.
 
 [view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Gateway.md)
+
 [view on Steemit!](https://steemit.com/taupemist/@cmorton/gateway-v1)
 
 **If you have any questions or uncertainties, then please ask via a reply to this post.**
