@@ -40,6 +40,7 @@ Taupemist's fiat account is denominated in euro however, the account provider (N
 A minimum amount will not be strictly enforced however it will reside at around ten dollars.
 
 [view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Gateway.md)
+[view on Steemit!](https://steemit.com/taupemist/@cmorton/gateway-v1)
 
 **If you have any questions or uncertainties, then please ask via a reply to this post.**
 
