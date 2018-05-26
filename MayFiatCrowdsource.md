@@ -1,4 +1,4 @@
-# May Fiat Crowdsource v1.0.1
+# May Fiat Crowdsource v1.0.2
 
 __I would like to formally announce that fiat currency will be officially added to the Taupemist asset portfolio!__
 
@@ -27,6 +27,8 @@ Send your donation to Taupemist's bank account:
 IBAN: DE47 1001 1001 2628 2501 49
 BIC: NTSBDEB1XXX
 Account Holder: Cole Morton
+
+Or via [Transferwise](https://transferwise.com/) using the recipient email: colemorton4@gmail.com
 
 ### When can I participate?
 At any time between 12:00 a.m. 01/05/2018 and 12:00 p.m 31/05/2018.
