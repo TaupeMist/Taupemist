@@ -40,3 +40,9 @@ Steemit Username: kamyar-k
 Bitshares Username: kamyar-k
 Github Username: kamyar-k
 ```
+
+##### Member #5
+```
+Bitshares Username: pikufolgado7
+Github Username: dfolgado
+```
