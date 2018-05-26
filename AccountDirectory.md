@@ -43,6 +43,7 @@ Github Username: kamyar-k
 
 ##### Member #5
 ```
+Steemit Username: pikufolgado
 Bitshares Username: pikufolgado7
 Github Username: dfolgado
 ```
