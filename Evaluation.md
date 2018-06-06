@@ -7,12 +7,24 @@ An evaluation is an assessment of something. In regards to Taupemist, an evaluat
 
 ### How does it work?
 Typically **all new services and features** should be evaluated as soon as it's existence, operation, or usage has the potential to provide data of any tangible value to the organisation. This includes all major releases and likely most if not all minor releases. Furthermore, all actions that are taken by members on the behalf of the organisation are also subject to evaluation.
+The core data to be obtained from evaluations are ratings.
+
+### What is a rating?
+##### A rating is a number from 0 to 5.
+- __0__: Nothing
+- __1__: Low
+- __2__: Below Average
+- __3__: Average
+- __4__: Above Average
+- __5__: Amongst the highest
 
 ### How do I submit an evaluation?
 ##### An evaluation is composed of three fields.
 - The __title__ is a name, ID, or description of the service/action.
-- The __rating__ is a 0 to 5 rating of the performance or value.
-- The __reason__ is an **optional** field that can contain any supporting opinions or evidence towards their rating.
+- The __value__ is a rating of the value added to the organisation compared to other services/actions.
+- The __complexity__ is an **optional** rating of the complexity, differculty, or intricacy compared to other services/actions.
+- The __execution__ is an **optional** rating of how well it was executed based on the specification or intention.
+- The __reason__ is an **optional** field that can contain any supporting opinions or evidence towards their ratings.
 - The __improvement__ is an **optional** field where a member can provide information or opinions on how this service/action can or could possibly be improved.
 
 Through using their desired steem website (i.e. [steemit.com](https://www.steemit.com)), a member can submit an evaluation as a comment to the related post or as a new post on the steem blockchain.
