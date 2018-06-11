@@ -1,4 +1,4 @@
-# Contribution v1
+# Contribution v1.0.0
 **Taupemist members provide contributions to the organisation and ensure it's operation, and each member has an equal right to fair compensation. Taupemist members have the ability to catalogue contributions into a statement for compensation from the organisation.**
 
 ### What is a contribution statement?
@@ -19,41 +19,26 @@ A statement can be created before, during or after the commencement of any work 
 ##### Example Contribution Statement #1
 ```
 Account Setup
-Contributors:
-- Richard
-Tasks:
+Description:
 - Setup and credit of the taupemist1 account.
 - Creation of the Taupemist asset. Price ~220USD.
 - Organisation and execution of share distribution #1.
 - Organisation and execution of share repurchase #1.
+Contributors:
+- Richard
 ```
 ##### Example Contribution Statement #2
 ```
 Logo Design
-Contributors:
-- Richard 20%
-- Henry 80%
-Tasks:
+Description:
 - Gather requirements and establish scope. Time 2hrs
 - Creation of prototypes. Time 6hrs
 - Aquisition of assets. Time 2hrs.
-
+Contributors:
+- Richard 20%
+- Henry 80%
 ```
 Compensation statements should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
-
-### What does a Compensation Survey look like?
-##### Example Survey
-| | |
-| ------ | ------ |
-| Title | Contribution Statement: Account Setup |
-| Type | compensation |
-
-##### Example Submission
-| | |
-| ------ | ------ |
-| Value | 250$ |
-| Weight | 100TMS |
-| Reason | The TM asset will be invaluable to the growth and operation of the organisation |
 
 [view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Contribution.md)
 
