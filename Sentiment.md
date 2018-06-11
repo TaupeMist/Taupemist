@@ -13,17 +13,22 @@ Unless a survey explicitly specifies a duration, the default duration will be us
 Taupemist members that hold the appropriate level of membership can create, submit surveys and respond to them.
 At the end of a survey, all response values and their weight will be collected and the central tendency will determine the result of the survey.
 
+### What Survey types exist?
+- __boolean__: is used for questions. Submission value can be true or false
+- __(USD/TM) range__: is used to discover an amount. USD or TM range type must be defined.
+- __compensation__: is used to discover an amount to be paid to a member as compensation. Range type is USD and compensation will be paid in TM.
+
 ### How do I submit a survey?
 ##### A Survey is composed of three fields.
 The __title__ is the title or name of the survey.
-The __type__ can be boolean (true/false) or a range (variable).
+The __type__ is the survey type.
 The __duration__ is an **optional** field to state the duration of the survey.
 
 A member can submit a survey in this format as a post on the steem blockchain using their desired steem website (i.e. [steemit.com](https://www.steemit.com)) and the tag: taupemist.
 
 ### How do I submit TMS to a survey?
 ##### A TMS Submission is composed of three fields.
-The __value__ is the answer or result that the member supports.
+The __value__ is the answer or result that the member supports depending on the survey type.
 The __weight__ is the number of TMS allocated towards this submission.
 The __reason__ is an **optional** field that can contain some arbitrary information either required by a specific survey and/or to support that member's chosen value.
 
@@ -42,14 +47,12 @@ Yes. A member can post a new TMS submission with the same value as the former, a
 ### Am I required to participate?
 No, members are not required to participate and does stand to lose anything other than a degree of influence over Taupemist's decision making.
 
-### Example Survey #1:
-
+### What does a Boolean Survey (Question) look like?
 ```
 SURVEY
 Title: Does Taupemist need a new logo design?
 Type: boolean
 ```
-
 ```
 SURVEY SUBMISSION
 Title: Does Taupemist need a new logo design?
@@ -57,20 +60,32 @@ Value: true
 Weight: 100TMS
 ```
 
-### Example Survey #2:
-
+### What does a Payment Survey look like?
 ```
 SURVEY
 Title: How valuable is a new logo design to Taupemist?
-Type: range
+Type: usd range
 ```
-
 ```
 SURVEY SUBMISSION
 Title: How valuable is a new logo design to Taupemist?
 Value: $200
 Weight: 100TMS
 Reason: a quote from New Logo Ltd stated $200
+```
+
+### What does a Compensation Survey look like?
+```
+SURVEY
+Title: Bitshares Account Setup
+Type: compensation
+```
+```
+SURVEY SUBMISSION
+Title: Bitshares Account Setup
+Value: $250
+Weight: 100TMS
+Reason: The TM asset will be invaluable to the growth and operation of the organisation
 ```
 
 [view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Sentiment.md)
