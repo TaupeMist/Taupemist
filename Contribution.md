@@ -1,4 +1,5 @@
 # Contribution v1.0.0
+
 **Taupemist members provide contributions to the organisation and ensure it's operation, and each member has an equal right to fair compensation. Taupemist members have the ability to catalogue contributions into a statement for compensation from the organisation.**
 
 ### What is a contribution statement?
@@ -38,7 +39,6 @@ Contributors:
 - Richard 20%
 - Henry 80%
 ```
-Compensation statements should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
 
 [view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Contribution.md)
 
