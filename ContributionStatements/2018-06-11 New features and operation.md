@@ -55,8 +55,11 @@ Complexity: 5
 
 ### Value Survey
 ```
-SENTIMENT SURVEY
-Title: How much TM (valued in USD) should be compensated to Cole for 2018-06-11 New features and operation.
-Type: Range
+SURVEY
+Title: 2018-06-11 New features and operation.
+Type: compensation
 Duration: 1 week (close at 00:00 2018-06-18)
 ```
+
+**Please submit your survey submissions as a reply to this post**
+**SURVEY CLOSES AT 00:00 2018-06-18**
