@@ -1,4 +1,4 @@
-# Sentiment
+# Sentiment v1.0.1
 
 **Governance is fundamentally essential for any organisation to operate effectively and starting now, the Taupemist organisation will implement the first service to allow a rudimentary form of governance and decision making to the organisation!**
 
@@ -44,32 +44,34 @@ No, members are not required to participate and does stand to lose anything othe
 
 ### Example Survey #1:
 
-##### Survey
-| | |
-| ------ | ------ |
-| Title | Does Taupemist need a new logo design? |
-| Type | boolean |
+```
+SURVEY
+Title: Does Taupemist need a new logo design?
+Type: boolean
+```
 
-##### Submission #1
-| | |
-| ------ | ------ |
-| Value | true |
-| Weight | 100TMS |
+```
+SURVEY SUBMISSION
+Title: Does Taupemist need a new logo design?
+Value: true
+Weight: 100TMS
+```
 
 ### Example Survey #2:
 
-##### Survey
-| | |
-| ------ | ------ |
-| Title | How valuable is a new logo design to Taupemist? |
-| Type | range |
+```
+SURVEY
+Title: How valuable is a new logo design to Taupemist?
+Type: range
+```
 
-##### Submission #1
-| | |
-| ------ | ------ |
-| Value | $200 |
-| Weight | 100TMS |
-| Reason | a quote from New Logo Ltd stated $200 |
+```
+SURVEY SUBMISSION
+Title: How valuable is a new logo design to Taupemist?
+Value: $200
+Weight: 100TMS
+Reason: a quote from New Logo Ltd stated $200
+```
 
 [view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Sentiment.md)
 
