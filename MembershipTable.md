@@ -1,4 +1,4 @@
-# Taupemist Membership Table v2.2.0
+# Taupemist Membership Table v2.2.1
 
 Taupemist is a non-profit organisation and the only expense incurred by members is in the form of a fair community decided unbiased fee paid directly to Taupemist members as a means of compensation for the time and resources they require to provide a service or product.
 
@@ -12,6 +12,7 @@ __Refer to the table below to determine your level of membership__
 | Send/Receive TM |✔|✔|✔|
 | Taupemist:BitUSD Market |✔|✔|✔|
 | Bounty (Donator) |✔|✔|✔|
+| Evaluation ||✔|✔|
 | [Sentiment](https://github.com/TaupeMist/Taupemist/blob/master/Sentiment.md) ||✔|✔|
 | Bounty (Creator) **(TBA)** ||✔|✔|
 | Crowdsource (Donator) ||✔|✔|
