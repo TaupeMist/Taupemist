@@ -33,7 +33,7 @@ Through using their desired steem website (i.e. [steemit.com](https://www.steemi
 ```
 EVALUATION
 Title: Token Distribution v1.0 
-Rating: 3
+Value: 3
 Reason: Functioned correctly as described.
 ```
 
