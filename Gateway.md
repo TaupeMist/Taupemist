@@ -30,7 +30,7 @@ Euro will be available as the base fiat currency, however, Transferwise will be 
 ### How do I know what chunks are available?
 The chunks available will be advertised and logged historically through the comment thread of this Steem article.
 Please check back here often for availability.
-**A notification will anounced to Taupemist members inside the Telegram channel 24 hours before new chunks become available.**
+**A notification will anounced to Taupemist members inside the Telegram channel 24 hours before chunk availability is modified.**
 
 ### What does a gateway request look like?
 Here's an example gateway request to purchase $300 BitUSD for $300 USD.
@@ -42,7 +42,7 @@ CHUNKS: 3
 Gateway requests should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
 
 ### Where should I send my fiat currency for the purchase?
-If using Transferwise, the recepient address is: **colemorton4@gmail.com**
+If using Transferwise, the recepient address is: **colemorton4@gmail.com**.
 Or if using a bank transfer, the amount should be sent to the official Taupemist organisation bank account.
 The details are as follows:
 ```
