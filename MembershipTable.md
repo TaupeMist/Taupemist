@@ -1,4 +1,9 @@
-# Taupemist Membership Table v2.2.1
+# Taupemist Membership Table v2.2.2
+
+The objective of the Membership Table is to provide fairness and equality to all members while simultaneously adding security to the organisation.
+The Membership Table measures this through its ability provide an environment that stimulates a balanced asset distribution between all members.
+
+Members within a lower membership level should be incentivised to accumulate TM in order to increase their membership level to access more services and features. Whereas, members at the highest level should be incentivised towards steering the organisation with their higher TMS (greater influence) and to create bounties towards incentivising valuable goals in order to expand, grow and increase the value of the organisation. 
 
 Taupemist is a non-profit organisation and the only expense incurred by members is in the form of a fair community decided unbiased fee paid directly to Taupemist members as a means of compensation for the time and resources they require to provide a service or product.
 
