@@ -17,7 +17,7 @@ The request will receive a response within 24 hours, which will be an approval i
 On approval, the member should transfer their payment to Taupemist and when received, Taupemist will transfer their desired asset to the member.
 
 ### What assets will be available?
-BitUSD will be the only cryptocurrency available as it's a pegged to the price of fiat USD and provides the most convenience in terms of a consistant chunk value and ease to transfer/exchange to other cryptocurrencies.
+BitUSD will be the only cryptocurrency available as it's a pegged to the price of fiat USD and provides the most convenience in terms of a consistent chunk value and easy to transfer/exchange to other cryptocurrencies.
 As BitUSD and fiat are both denominated in USD within the portfolio and a gateway exchange always occurs at a **1:1 conversion ratio**, a gateway transaction using BitUSD would not require an update to the investment portfolio.
 Euro will be available as the base fiat currency, however, Transferwise will be used if the member requires an international transfer at which time the euro will be converted to their native currency.
 
@@ -29,8 +29,9 @@ Euro will be available as the base fiat currency, however, Transferwise will be 
 
 ### How do I know what chunks are available?
 The chunks available will be advertised and logged historically through the comment thread of this Steem article.
-Please check back here often for availability.
-**A notification will anounced to Taupemist members inside the Telegram channel 24 hours before chunk availability is modified.**
+Please check back here for availability.
+A notification will be announced to Taupemist members inside the Telegram channel when Taupemist updates the chunk availability.
+**Taupemist's chunk availability updates have a cooldown of one month meaning that at least one month must elapse between these updates**
 
 ### What does a gateway request look like?
 Here's an example gateway request to purchase $300 BitUSD for $300 USD.
@@ -42,8 +43,8 @@ CHUNKS: 3
 Gateway requests should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
 
 ### Where should I send my fiat currency for the purchase?
-If using Transferwise, the recepient address is: **colemorton4@gmail.com**.
-Or if using a bank transfer, the amount should be sent to the official Taupemist organisation bank account.
+If using Transferwise, the recipient address is: **colemorton4@gmail.com**
+or if using a bank transfer, the amount should be sent to the official Taupemist organisation bank account.
 The details are as follows:
 ```
 IBAN: DE47 1001 1001 2628 2501 49
@@ -59,7 +60,7 @@ Account Holder: Cole Morton
 ### I've been approved to purchase 1 chunk of BitUSD, what are the following steps?
   1. [Take the converted EUR amount from this page as the amount to be paid.](https://transferwise.com/gb/currency-converter/usd-to-eur-rate?amount=100)
   2. Send the amount to the Taupemist account using the account information specified above.
-  3. Send the reciept of the payment to Cole Morton via telegram.
+  3. Send the receipt of the payment to Cole Morton via telegram.
   4. Taupemist will transfer 1 chunk of BitUSD to your BitShares account within 24 hours.
 
 [view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Gateway.md)
