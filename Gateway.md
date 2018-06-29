@@ -65,7 +65,7 @@ Account Holder: Cole Morton
 
 [view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Gateway.md)
 
-[view on Steemit!](https://steemit.com/taupemist/@cmorton/gateway-v2)
+[view on Steemit!](https://steemit.com/taupemist/@cmorton/gateway-v2-0-0)
 
 **If you have any questions or uncertainties, then please ask via a reply to this post.**
 
