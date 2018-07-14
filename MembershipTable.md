@@ -23,7 +23,7 @@ __Refer to the table below to determine your level of membership__
 | Crowdsource (Donator) ||✔|✔|
 | [Power Down](https://github.com/TaupeMist/Taupemist/blob/master/PowerDown.md) ||✔|✔|
 | [Gateway](https://github.com/TaupeMist/Taupemist/blob/master/Gateway.md) |||✔|
-| Power Up **(TBA)** |||✔|
+| [Borrowing](https://github.com/TaupeMist/Taupemist/blob/master/Borrowing.md) |||✔|
 | Crowdsource (Holder) **(TBA)** |||✔|
 | __ACCESS LEVEL__ | __0 TM__ | __> 1 TM__ | __> 2 TM__ |
 
