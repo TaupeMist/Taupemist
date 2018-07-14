@@ -70,7 +70,7 @@ You have three options at your disposal.
 
 [view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Borrow.md)
 
-[view on Steemit!](https://steemit.com/taupemist/@cmorton/borrow-v1)
+[view on Steemit!](https://steemit.com/taupemist/@cmorton/borrow-v1-0-0)
 
 **If you have any questions or uncertainties, then please ask via a reply to this post.**
 
