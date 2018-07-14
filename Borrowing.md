@@ -68,9 +68,9 @@ You have three options at your disposal.
 2. Repay an amount of BitUSD lent.
 3. Allow the collateral ratio to reach the minimum which will close your borrow position.
 
-[view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Borrow.md)
+[view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/Borrowing.md)
 
-[view on Steemit!](https://steemit.com/taupemist/@cmorton/borrow-v1-0-0)
+[view on Steemit!](https://steemit.com/taupemist/@cmorton/borrowing-v1-0-0)
 
 **If you have any questions or uncertainties, then please ask via a reply to this post.**
 
