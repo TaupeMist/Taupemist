@@ -1,4 +1,4 @@
-# Borrowing v1.0.0
+# Borrowing v1.0.1
 **Taupemist has the ability to lend BitUSD to members given enough collateral is provided by the member.**
 
 ### What is a Borrowing?
@@ -34,9 +34,6 @@ A borrower also has the ability to withdraw TM from the collateral which will de
 There is no time limit and all borrow positions will remain open until either automatically closed or the full amount of BitUSD lent is repaid to Taupemist.
 On full repayment, the remaining collateral will be returned to the member.
 
-### What is the minimum collateral ratio?
-The minimum collateral ratio or call price is **1.75:1** of **TM:BitUSD**.
-
 ### How much BitUSD does 1 chunk contain?
 **One chunk** will always be equal to **$100 BitUSD**.
 
@@ -47,6 +44,21 @@ Please check back here for availability.
 A notification will be announced to Taupemist members inside the Telegram channel when Taupemist updates the chunk availability.
 **Taupemist's chunk availability updates have a cooldown of one month meaning that at least one month must elapse between these updates**
 
+### What is the minimum collateral ratio?
+The minimum collateral ratio or call price is **1.75:1** of **TM:BitUSD**.
+
+### How should I decide how much I can borrow and the amount of collateral to provide?
+
+As a borrower, you will need to determine the following values:
+1. BA: the amount you wish to borrow (BitUSD)
+2. MTP: the minimum TM price where the position would close (BitUSD)
+
+How do I do this?
+1. Consider the amount of BitUSD that you wish to borrow to **determine the BA**.
+3. **Take the MCR** specified in this document.
+2. Review the TM price history to **determine your MTP** (lower MTP = higher security).
+2. Use the following formula to **calculate the collateral amount (TM)** that you should provide: **BA * MCR / MTP**
+
 ### What does a borrow request look like?
 Here's an example borrow request to borrow 1 chunks of BitUSD.
 ```
@@ -54,13 +66,11 @@ BORROW REQUEST
 CHUNKS: 1
 ```
 Assuming that the request is approved and if in this example, the minimum collateral ratio is **1.75:1** and the current TM portfolio price is **$100** then the minimum amount of collateral would equal **1.75TM**.
-Therefore, the member may wish to provide **3TM** which would equal a collateral ratio of **3:1** and provide the member with security in the case that the TM portfolio price decreases.
+Therefore, the member may wish to provide **3TM** which would equal a collateral ratio of **3:1** and provide the member with security in the case that the TM price decreases.
 
 ### I've been approved to borrow 1 chunk of bitUSD, what are the following steps?
-1. Carefully consider the amount of collateral that you wish to provide.
-If the minimum ratio is 1.75:1 then perhaps a ratio of 2.5:1 or 3:1 would be advisable (members have the ability to adjust the ratio at any time).
 1. Log in to your BitShares account and pay the collateral amount to the taupemist1 account.
-2. Cole Morton will transfer your requested amount of bitUSD to your BitShares account within 24 hours.
+2. Taupemist will transfer your requested amount of bitUSD to your BitShares account within 24 hours.
 
 ### The collateral ratio is low/close to the minimum, what should I do!?
 You have three options at your disposal.
