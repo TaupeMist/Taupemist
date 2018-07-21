@@ -1,4 +1,4 @@
-# Taupemist Membership Table v2.2.2
+# Taupemist Membership Table v2.3
 
 The objective of the Membership Table is to provide fairness and equality to all members while simultaneously adding security to the organisation.
 The Membership Table measures this through its ability provide an environment that stimulates a balanced asset distribution between all members.
@@ -19,12 +19,12 @@ __Refer to the table below to determine your level of membership__
 | Bounty (Donator) |✔|✔|✔|
 | Evaluation ||✔|✔|
 | [Sentiment](https://github.com/TaupeMist/Taupemist/blob/master/Sentiment.md) ||✔|✔|
-| Bounty (Creator) **(TBA)** ||✔|✔|
-| Crowdsource (Donator) ||✔|✔|
+| Bounty (Creator) ||✔|✔|
+| [Crowdsource (Donator)](https://github.com/TaupeMist/Taupemist/blob/master/Crowdsource.md) ||✔|✔|
 | [Power Down](https://github.com/TaupeMist/Taupemist/blob/master/PowerDown.md) ||✔|✔|
 | [Gateway](https://github.com/TaupeMist/Taupemist/blob/master/Gateway.md) |||✔|
 | [Borrowing](https://github.com/TaupeMist/Taupemist/blob/master/Borrowing.md) |||✔|
-| Crowdsource (Holder) **(TBA)** |||✔|
+| [Crowdsource (Creator)](https://github.com/TaupeMist/Taupemist/blob/master/Crowdsource.md) |||✔|
 | __ACCESS LEVEL__ | __0 TM__ | __> 1 TM__ | __> 2 TM__ |
 
 **If you have any questions or uncertainties, then please contact me via the Official Taupemist Group**
