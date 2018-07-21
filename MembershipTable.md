@@ -17,7 +17,7 @@ __Refer to the table below to determine your level of membership__
 | Send/Receive TM |✔|✔|✔|
 | Taupemist:BitUSD Market |✔|✔|✔|
 | Bounty (Donator) |✔|✔|✔|
-| Evaluation ||✔|✔|
+| [Evaluation](https://github.com/TaupeMist/Taupemist/blob/master/Evaluation.md) ||✔|✔|
 | [Sentiment](https://github.com/TaupeMist/Taupemist/blob/master/Sentiment.md) ||✔|✔|
 | Bounty (Creator) **(TBA)** ||✔|✔|
 | Crowdsource (Donator) ||✔|✔|
