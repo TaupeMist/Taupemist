@@ -1,4 +1,5 @@
 # Borrowing v1.0.1
+
 **Taupemist has the ability to lend BitUSD to members given enough collateral is provided by the member.**
 
 ### What is a Borrowing?
