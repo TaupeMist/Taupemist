@@ -105,12 +105,12 @@ Reason: The TM asset will be invaluable to the growth and operation of the organ
 ```
 Final Results: { $200 * 150TMS, $300 * 150TMS }
 
-Median TMS value: __$200__
+Median TMS value: $200
 
 Compensation Payment
 Recepient: cole-morton
-Value: __$200__
-Amount: __2TM__
+Value: $200
+Amount: 2TM
 
 [View on Bitshares!](https://wallet.bitshares.org/#/account/taupemist1)
 ```
