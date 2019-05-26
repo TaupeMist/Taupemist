@@ -1,5 +1,5 @@
-
 # Crowdsource v1.0.0
+
 **Crowdsourcing provides a method for members to fundraise through the distribution of TM**
 
 ### What is crowdsourcing?
