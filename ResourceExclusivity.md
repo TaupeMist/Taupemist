@@ -19,9 +19,20 @@ The **first pool**, known as the **Resource Pool**. This will contain the resour
 The **second pool**, known as the **Staking Pool**, will contain TMA.
 Members seeking exclusivity of resources will do so through the staking of TMA into a position within the staking pool.
 
-Whenever a member seeks to change their staking position (increase or decrease), a maturity period of a pre-defined length will begin. The newly updated staking position is not effective or valid until the position has matured i.e the maturity period has concluded.
+Whenever a member seeks to change their staking position (increase or decrease), must submit a staking position request specifying the new position value.
+
+When the member wishes to increase their staking position (the new position exceeds than the member's existing position), then the member is obligated to transfer any additional TMA in order to meet the new position amount. Conversely, when the member wishes to descrease their staking position (withdraw TMA from their staking position), any excess TMA within their staking position will be deposited into their account.
+
+When a staking position request is submitted, a maturity period of a pre-defined length will begin. The newly updated staking position is not effective or valid until the position has matured i.e the maturity period has concluded.
 
 Once a member's staking position has matured, they can access the represented resources anytime they wish through Taupemist's services/features.
+
+### What does a staking position request look like?
+Here's an example staking position request.
+```
+STAKING POSITION REQUEST
+NEW POSITION: 1 TMA
+```
 
 ### How long is the maturity period?
 The maturity period is **24 hours**.
