@@ -1,7 +1,7 @@
-# Resource Exclusivity v1.0.0
+# Resource Staking v1.0.0
 **Taupemist members can reserve exclusive access to resources.**
 
-### What is Resource Exclusivity?
+### What is Resource Staking?
 The resources and assets that belong to Taupemist are limited.
 This poses an interesting question in an environment where members have equal rights to use or access those resources.
 How can limited resources be distributed fairly and equally amongst members?
