@@ -27,6 +27,8 @@ When a staking position request is submitted, a maturity period of a pre-defined
 
 Once a member's staking position has matured and has been processed, a Resource Staking Summary will be published as a comment on the steem blockchain, at which point they can access the represented resources anytime they wish through Taupemist's services/features.
 
+A notification will be announced to Taupemist members inside the Telegram channel when Taupemist posts a new Resource Staking Summary.
+
 ### How do I submit a staking position request?
 ##### A staking position request is composed of one single field.
 - The __new position__ is the new desired amount of TMA that a member wishes as their staking position.
