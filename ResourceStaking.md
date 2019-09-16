@@ -25,7 +25,7 @@ When the member wishes to increase their staking position (the new position exce
 
 When a staking position request is submitted, a maturity period of a pre-defined length will begin. The newly updated staking position is not effective or valid until the position has matured i.e the maturity period has concluded.
 
-Once a member's staking position has matured, they can access the represented resources anytime they wish through Taupemist's services/features.
+Once a member's staking position has matured and has been processed, a Resource Staking Summary will be published as a comment on the steem blockchain, at which point they can access the represented resources anytime they wish through Taupemist's services/features.
 
 ### How do I submit a staking position request?
 ##### A staking position request is composed of one single field.
@@ -33,15 +33,38 @@ Once a member's staking position has matured, they can access the represented re
 
 Through using their desired steem website (i.e. [steemit.com](https://www.steemit.com)), a member can submit a staking position request as a comment to the related post on the steem blockchain.
 
-### What does a staking position request look like?
-Here's an example staking position request.
+### What does a Staking Position Request look like?
+Here's an example Staking Position Request.
 ```
-STAKING POSITION REQUEST
+### RESOURCE STAKING REQUEST
 NEW POSITION: 1 TMA
 ```
 
 ### How long is the maturity period?
 The maturity period is **24 hours**.
+
+### What does a Resource Staking Summary look like?
+Here's an example Resource Staking Summary.
+```
+RESOURCE STAKING SUMMARY
+
+STAKING POOL
+JIM: 3TMA
+JOHN: 2TMA
+JANE: 1TMA
+TOTAL: 6TMA
+
+RESOURCE POOL
+BitUSD: $800
+USD: $1000
+TOTAL: $1800
+
+PRICE (TMA)
+$1800 / 6TMA = $300
+
+PRICE MARGIN (USD)
+100 / ($1800 / $300) = 17%
+```
 
 ### Participation
 #### Am I eligable to use this service?
