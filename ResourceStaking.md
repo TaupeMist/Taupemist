@@ -21,7 +21,7 @@ Members seeking exclusivity of resources will do so through the staking of TMA i
 
 Whenever a member seeks to change their staking position (increase or decrease), must submit a staking position request specifying the new position value.
 
-When the member wishes to increase their staking position (the new position exceeds than the member's existing position), then the member is obligated to transfer any additional TMA in order to meet the new position amount. Conversely, when the member wishes to descrease their staking position (withdraw TMA from their staking position), any excess TMA within their staking position will be deposited into their account.
+When the member wishes to increase their staking position (the new position exceeds than the member's existing position), then the member is obligated to transfer any additional TMA to meet the new position amount. Conversely, when the member wishes to decrease their staking position (withdraw TMA from their staking position), any excess TMA within their staking position will be deposited into their account.
 
 When a staking position request is submitted, a maturity period of a pre-defined length will begin. The newly updated staking position is not effective or valid until the position has matured i.e the maturity period has concluded.
 
@@ -67,14 +67,14 @@ PRICE MARGIN (USD)
 ```
 
 ### Participation
-#### Am I eligable to use this service?
+#### Am I eligible to use this service?
 The member must currently possess sufficient TM to comply with the [Taupemist Membership Table.](https://github.com/TaupeMist/Taupemist/blob/master/MembershipTable.md).
 
 #### Is this required?
 No, members are not required to participate however in order to have access the resources or assets of Taupemist, the member is required to have a matured staking position of adequate size to allow access to the desired resource/asset.
 
 #### Is there any time limit?
-Members may participate until this service is decomissioned.
+Members may participate until this service is decommissioned.
 
 #### How often may I change my staking position?
 As often as desired. The processing duration of each request will be capped at 24 hours and will respect the most recent staking position request for each given member. 
@@ -90,6 +90,8 @@ As often as desired. The processing duration of each request will be capped at 2
 * ##### When a member uses exclusive resources, they release a proportionate amount of TMA in the staking pool to Taupemist.
 
 * ##### Members may increase their staking position for greater exclusivity, and conversely, decrease to withdraw their TMA.
+
+* ##### The number of resources within the Resource Pool should generally exceed any demand, however, this should not have a detrimental effect on Taupemist's portfolio, investment, and trading strategies to which Cole will ensure. To provide security to participants, the Resource Pool will only be available for adjustment once per month and on the first day of any given month. Additionally, any intention to adjustment the resource pool will be broadcasted at first available notice within the Taupemist group Telegram channel.
 
 ### Example Scenario
 1. Resource Pool: **$1000 BitUSD**
