@@ -27,7 +27,10 @@ When a staking position request is submitted, a maturity period of a pre-defined
 
 Once a member's staking position has matured and has been processed, a Resource Staking Summary will be published as a comment on the steem blockchain, at which point they can access the represented resources anytime they wish through Taupemist's services/features.
 
-A notification will be announced to Taupemist members inside the Telegram channel when Taupemist posts a new Resource Staking Summary.
+A notification will be announced to Taupemist members inside the Official TaupeMist Telegram Channel when Taupemist posts a new Resource Staking Summary.
+
+### How is the Resource Pool managed?
+The amount of resources within the Resource Pool should generally exceed any demand, however, this should not have a detrimental effect on Taupemist's portfolio, investment, and trading strategies to which Cole will ensure. To provide security to participants, the Resource Pool will only be available for adjustment once per month and on the first day of any given month. Additionally, any intention to adjust the Resource Pool will be announced at first available oppurtunity within the Official TaupeMist Telegram Channel.
 
 ### How do I submit a staking position request?
 ##### A staking position request is composed of one single field.
@@ -87,13 +90,13 @@ As often as desired. The processing duration of each request will be capped at 2
 
 * ##### The composition of the staking pool serves as exclusivity in the resource pool.
 
-* ##### The staking pool is a mechanism that provides fluid and automatic price discovery.
+* ##### The Staking Pool is a mechanism that provides fluid and automatic price discovery.
 
 * ##### When a member uses exclusive resources, they release a proportionate amount of TMA in the staking pool to Taupemist.
 
 * ##### Members may increase their staking position for greater exclusivity, and conversely, decrease to withdraw their TMA.
 
-* ##### The number of resources within the Resource Pool should generally exceed any demand, however, this should not have a detrimental effect on Taupemist's portfolio, investment, and trading strategies to which Cole will ensure. To provide security to participants, the Resource Pool will only be available for adjustment once per month and on the first day of any given month. Additionally, any intention to adjustment the resource pool will be broadcasted at first available notice within the Taupemist group Telegram channel.
+* ##### The Resource Pool may be updated on the first day of each month.
 
 ### Example Scenario
 1. Resource Pool: **$1000 BitUSD**
