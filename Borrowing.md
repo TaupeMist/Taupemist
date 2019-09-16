@@ -1,4 +1,4 @@
-# Borrowing v1.0.1
+# Borrowing v1.1.0
 **Taupemist has the ability to lend BitUSD to members given enough collateral is provided by the member.**
 
 ### What is a Borrowing?
@@ -15,14 +15,14 @@ This is a powerful service and adds a useful alternative to members that are con
 
 The BitUSD to be used in this service is contained within Taupemist's investment portfolio and belongs to the Taupemist organisation. It is essential that the current investment objectives and other services are maintained and this service does not operate in detriment to the organisation and it is for that reason, that the availability of assets to this service will be sparsely and transparently adjusted over time.
 
-As Taupemist is a non-profit organisation, members are not required to pay any fee or profit margin for the user of this service.
-BitUSD quantities will be measured in chunks, where a chunk will represent a fixed amount of that asset.
-Therefore, a member will request their desired amount per number of chunks, opposed to the amount in dollars.
+As Taupemist is a non-profit organisation, members are not required to pay any fee or profit margin for the usage of this service.
 
 ### How does it work?
-Taupemist members that hold the required level of membership and desire to borrow BitUSD should first check the availability of chunks in the comment thread. If chunks are available then they can make a borrow request. Borrow requests should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
+Taupemist members that hold the required level of [membership](https://github.com/TaupeMist/Taupemist/blob/master/MembershipTable.md) and desire to borrow BitUSD should first check the availability of their desired asset in the latest Resource Staking Summary which can be found within the comment thread of the [Resource Staking article](https://steemit.com/taupemist/@cmorton/resource-staking-v1-0-0).
+If adequate resources exist and the member has sufficient access to those resources wthin the [Resource Staking feature](https://github.com/TaupeMist/TaupeMist/blob/master/ResourceStaking.md), then they may make a borrow request.
+Borrow requests should be posted in the comment thread of this Steem article to be legitimised and posted in the Telegram channel to advertise the request to the organisation.
 
-The request will receive a response within 24 hours, which will be an approval if sufficient chunks are available and the member holds sufficient TM. The current minimum amount of collateral will also be specified.
+The request will receive a response within 24 hours, which will be an approval if the member has sufficient access to the resources and they are available. The current minimum amount of collateral will also be specified.
 On approval, the member should transfer their desired amount of collateral to Taupemist and when received, Taupemist will transfer the requested BitUSD amount to the member at which point, the borrow position will become active.
 
 Taupemist will hold the collateral in escrow meaning that it still belongs to the member, however, **the collateral will be locked and Taupemist will not have the permission to use the amount for any purpose**.
@@ -34,15 +34,10 @@ A borrower also has the ability to withdraw TM from the collateral which will de
 There is no time limit and all borrow positions will remain open until either automatically closed or the full amount of BitUSD lent is repaid to Taupemist.
 On full repayment, the remaining collateral will be returned to the member.
 
-### How much BitUSD does 1 chunk contain?
-**One chunk** will always be equal to **$100 BitUSD**.
-
-### How do I know if chunks are available?
-The chunks available will be advertised and logged historically through the comment thread of this Steem article.
-Please check back here for availability.
-
-A notification will be announced to Taupemist members inside the Telegram channel when Taupemist updates the chunk availability.
-**Taupemist's chunk availability updates have a cooldown of one month meaning that at least one month must elapse between these updates**
+### How do I know what assets are available?
+The assets available will be advertised and logged historically through the comment thread of the [Resource Staking Steem article](https://steemit.com/taupemist/@cmorton/resource-staking-v1-0-0).
+Please check there for availability.
+A notification will be announced to Taupemist members inside the Official TaupeMist Telegram Channel when TaupeMist posts a new Resource Staking Summary.
 
 ### What is the minimum collateral ratio?
 The minimum collateral ratio or call price is **1.75:1** of **TM:BitUSD**.
@@ -60,15 +55,15 @@ How do I do this?
 2. Use the following formula to **calculate the collateral amount (TM)** that you should provide: **BA * MCR / MTP**
 
 ### What does a borrow request look like?
-Here's an example borrow request to borrow 1 chunks of BitUSD.
+Here's an example borrow request to borrow $100 of BitUSD.
 ```
 BORROW REQUEST
-CHUNKS: 1
+AMOUNT: $100
 ```
 Assuming that the request is approved and if in this example, the minimum collateral ratio is **1.75:1** and the current TM portfolio price is **$100** then the minimum amount of collateral would equal **1.75TM**.
 Therefore, the member may wish to provide **3TM** which would equal a collateral ratio of **3:1** and provide the member with security in the case that the TM price decreases.
 
-### I've been approved to borrow 1 chunk of bitUSD, what are the following steps?
+### I've been approved to borrow $100 of bitUSD, what are the following steps?
 1. Log in to your BitShares account and pay the collateral amount to the taupemist1 account.
 2. Taupemist will transfer your requested amount of bitUSD to your BitShares account within 24 hours.
 
