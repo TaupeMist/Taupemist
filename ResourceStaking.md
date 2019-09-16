@@ -27,6 +27,12 @@ When a staking position request is submitted, a maturity period of a pre-defined
 
 Once a member's staking position has matured, they can access the represented resources anytime they wish through Taupemist's services/features.
 
+### How do I submit a staking position request?
+##### A staking position request is composed of one single field.
+- The __new position__ is the new desired amount of TMA that a member wishes as their staking position.
+
+Through using their desired steem website (i.e. [steemit.com](https://www.steemit.com)), a member can submit a staking position request as a comment to the related post on the steem blockchain.
+
 ### What does a staking position request look like?
 Here's an example staking position request.
 ```
@@ -36,6 +42,19 @@ NEW POSITION: 1 TMA
 
 ### How long is the maturity period?
 The maturity period is **24 hours**.
+
+### Participation
+#### Am I eligable to use this service?
+The member must currently possess sufficient TM to comply with the [Taupemist Membership Table.](https://github.com/TaupeMist/Taupemist/blob/master/MembershipTable.md).
+
+#### Is this required?
+No, members are not required to participate however in order to have access the resources or assets of Taupemist, the member is required to have a matured staking position of adequate size to allow access to the desired resource/asset.
+
+#### Is there any time limit?
+Members may participate until this service is decomissioned.
+
+#### How often may I change my staking position?
+As often as desired. The processing duration of each request will be capped at 24 hours and will respect the most recent staking position request for each given member. 
 
 ### Key Properties
 
@@ -60,6 +79,10 @@ The maturity period is **24 hours**.
 8. **$16** of John's TMA staking position is released to Taupemist. (**80%** of his staking position)
 9. John receives **$400 BitUSD**.
 10. The discovered price margin is calculated as follows: **100 / ($400 / $16) = 4%**
+
+[view on GitHub!](https://github.com/TaupeMist/TaupeMist/blob/master/ResourceStaking.md)
+
+[view on Steemit!](https://steemit.com/taupemist/@cmorton/resource-staking-v1-0-0)
 
 **If you have any questions or uncertainties, then please ask via a reply to this post.**
 
